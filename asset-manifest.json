@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/KurtWink/Crispy/static/css/main.c45ecdf3.chunk.css",
-    "main.js": "/KurtWink/Crispy/static/js/main.91feebc5.chunk.js",
-    "main.js.map": "/KurtWink/Crispy/static/js/main.91feebc5.chunk.js.map",
-    "runtime-main.js": "/KurtWink/Crispy/static/js/runtime-main.d1e4ec85.js",
-    "runtime-main.js.map": "/KurtWink/Crispy/static/js/runtime-main.d1e4ec85.js.map",
-    "static/js/2.a99f5904.chunk.js": "/KurtWink/Crispy/static/js/2.a99f5904.chunk.js",
-    "static/js/2.a99f5904.chunk.js.map": "/KurtWink/Crispy/static/js/2.a99f5904.chunk.js.map",
-    "index.html": "/KurtWink/Crispy/index.html",
-    "static/css/main.c45ecdf3.chunk.css.map": "/KurtWink/Crispy/static/css/main.c45ecdf3.chunk.css.map",
-    "static/js/2.a99f5904.chunk.js.LICENSE.txt": "/KurtWink/Crispy/static/js/2.a99f5904.chunk.js.LICENSE.txt"
+    "main.css": "/Crispy/static/css/main.c45ecdf3.chunk.css",
+    "main.js": "/Crispy/static/js/main.91feebc5.chunk.js",
+    "main.js.map": "/Crispy/static/js/main.91feebc5.chunk.js.map",
+    "runtime-main.js": "/Crispy/static/js/runtime-main.1ca61be0.js",
+    "runtime-main.js.map": "/Crispy/static/js/runtime-main.1ca61be0.js.map",
+    "static/js/2.a99f5904.chunk.js": "/Crispy/static/js/2.a99f5904.chunk.js",
+    "static/js/2.a99f5904.chunk.js.map": "/Crispy/static/js/2.a99f5904.chunk.js.map",
+    "index.html": "/Crispy/index.html",
+    "static/css/main.c45ecdf3.chunk.css.map": "/Crispy/static/css/main.c45ecdf3.chunk.css.map",
+    "static/js/2.a99f5904.chunk.js.LICENSE.txt": "/Crispy/static/js/2.a99f5904.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1e4ec85.js",
+    "static/js/runtime-main.1ca61be0.js",
     "static/js/2.a99f5904.chunk.js",
     "static/css/main.c45ecdf3.chunk.css",
     "static/js/main.91feebc5.chunk.js"
